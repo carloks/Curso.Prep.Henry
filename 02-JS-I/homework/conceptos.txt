@@ -1,0 +1,5 @@
+* Variables: son palabras claves que contienen información y que pueden ser modificadas. Una variable puede ser un número, un string, un arreglo, etc.
+* Strings: son cadenas de caracteres y se identifican cuando tienen comillas simples: ''.
+* Funciones (argumentos, `return`): son métodos que se establecen una sola vez y pueden ser llamados muchas veces durante el código, pueden contener argumentos y retornan un valor.
+* Declaraciones `if`: son condicionales que ejecutan un código si se cumplen.
+* Valores booleanos (`true`, `false`): son resultados que se obtienen a través de una comparación.

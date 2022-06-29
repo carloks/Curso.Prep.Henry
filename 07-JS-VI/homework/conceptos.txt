@@ -1,0 +1,1 @@
+* Funciones Callback: son funciones que son llamadas por otras funciones con el fin de optimizar la codificación de un programa.

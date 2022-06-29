@@ -1,0 +1,5 @@
+* Objetos: son variables que contienen valores, los cuales a su vez contienen propiedades.
+* Propiedades: es la información que tiene cada valor, es lo que lo define.
+* Métodos: son funciones dentro de objetos.
+* Bucle `for…in`: es un ciclo que recorre los valores y propiedades de los objetos
+* Notación de puntos vs notación de corchetes: La notación de puntos se utiliza cuando se conoce el valor de la propiedad mientras que en la notación de corchetes el valor se encuentra en una variable.

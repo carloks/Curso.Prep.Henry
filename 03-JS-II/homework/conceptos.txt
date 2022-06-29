@@ -1,0 +1,2 @@
+* `for`: es un ciclo que permite recorrer arreglos y es detenido con una condición.
+* `&&`, `||`, `!`: Son operadores de comparación, el primero indica 'y', el segundo 'o' y el tercero 'not'.

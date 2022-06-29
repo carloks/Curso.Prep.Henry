@@ -1,0 +1,1 @@
+* Arrays: es un conjunto de valores guardados en un arreglo. Los valores pueden ser números, strings, incluso otros arreglos. 

@@ -1,0 +1,2 @@
+* `prototype`: Son funciones predefinidas en JavaScript, podemos acceder a ellas a través de las clases.
+* _Constructors_ (de Clases): Son como plantillas que se definen una sola vez y pueden ser llamadas para crear objetos que comparten los datos que los constructores ya tienen.
